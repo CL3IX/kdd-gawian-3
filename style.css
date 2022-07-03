@@ -1,0 +1,39 @@
+@media only screen and (max-width: 500px) {
+  .gbr {
+    padding-left: 3rem;
+  }
+
+  .kualitas {
+    padding-left: 3rem;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .gbr {
+    padding-left: 2rem;
+  }
+
+  .kualitas {
+    padding-left: 2rem;
+  }
+
+  .kartu {
+    margin-right: 10rem;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  .gbr {
+    padding-left: 11rem;
+  }
+
+  .kualitas {
+    padding-left: 11rem;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .gbr {
+    column-gap: 10;
+  }
+}
